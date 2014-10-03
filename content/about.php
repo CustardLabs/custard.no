@@ -1,6 +1,6 @@
 <div class="container">
   <div class="row">
-    <div class="col-md-8">
+    <div class="col-sm-7 col-md-8">
       <h2>About us</h2>
       
       <p>The CustardLabs team has worked with web applications for over 15 years, with a heavy lean towards PHP, and more recently frontend frameworks and libraries.
@@ -10,9 +10,9 @@
       <p>We are a community focused company, attending conferences whenever possible to keep up with current approaches and exchange ideas with like-minded members of the community. 
       We make use of open source software as much as possible, and contribute back when we can.</p>
     </div>
-    <div class="col-md-4">
+    <div class="col-sm-5 col-md-4">
       <h2>Core Technologies</h2>
-      <div class="col-md-6">
+      <div class="col-xs-6">
         <ul>
           <li><a href="http://php.net">PHP</a></li>
           <li><a href="http://symfony.com">Symfony</a></li>
@@ -22,7 +22,7 @@
           <li><a href="http://angularjs.org/">AngularJS</a></li>
         </ul>
       </div>
-      <div class="col-md-6">
+      <div class="col-xs-6">
         <ul>
           <li><a href="http://jquery.org/">jQuery</a></li>
           <li><a href="http://en.wikipedia.org/wiki/HTML5">HTML5</a></li>
@@ -33,7 +33,7 @@
     </div>
   </div>
   <div class="row">
-    <div class="col-md-12 small_images">
+    <div class="col-xs-12 small_images">
       <h2>Founder & Lead developer - Russ</h2>
       <img src ="/img/russ.jpg" class="inline_avatar_left"/>
       <p>Russ has been working with PHP web applications for well over 10 years, and has spent the last 7 years (since moving to Norway) mastering the Symfony framework
