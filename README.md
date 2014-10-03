@@ -6,4 +6,7 @@ page in less than a day.
 
 Of course the "less than a day" statement is only true as of the initial commit, everything else is a bonus.
 
-Feel free to copy everything except the output text. Pull requests for corrections/ommissions welcome.
+Copying/referencing is permitted for everything with regards to the code, except the output text/designs and anything that is otherwise 
+protected by a trademark (e.g. The company name and logo, named products/services). 
+
+Pull requests for corrections/omissions welcome.
