@@ -14,6 +14,7 @@
                                  medlemsregister, medlemshåndtering, organisasjon, klubb, forbund, forening, krets, distrikt, register, club, society, sports, membership administration, CRM, consulting,
                                  support, norway, english, norwegian, norsk, svensk, nynorsk, lag, elephpant, angular, bootstrap, backbone">
   
+  <link rel="stylesheet" href="css/normalize.css">
   <link rel="stylesheet" href="css/bootstrap.min.css">
   <link rel="stylesheet" href="css/bootstrap-theme.min.css">
   <link rel="stylesheet" href="css/lifestream.css">
