@@ -37,7 +37,13 @@
             <span class="icon-bar"></span>
           </button>
 
-          <a class="navbar-brand" href="/"><span class="custard">Custard</span>Labs AS</a>
+          <h1>
+            <a href="/">
+              <img class="img-responsive" src="img/logo_inverse.png"
+                   alt="CustardLabs AS<?php echo $page ? " ~ " . $page : "" ?>"
+                   title="CustardLabs AS<?php echo $page ? " ~ " . $page : "" ?>" />
+            </a>
+          </h1>
 
         </div>
         <div class="navbar-collapse collapse">
@@ -50,9 +56,3 @@
       </div>
     </div>
     
-    <div class="jumbotron">
-      <div class="container">
-        <h1><span class="custard">Custard</span>Labs AS</h1>
-        <p>Web application development and maintenance</p>
-      </div>
-    </div>
