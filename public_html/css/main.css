@@ -1,5 +1,5 @@
 body {
-  padding-top: 140px;
+  padding-top: 120px;
   padding-bottom: 202px;
 }
 
@@ -66,13 +66,16 @@ html, body { height: 100%;}
 @media (min-width: 768px) {
   .navbar-nav {
     position: relative;
-    top: 61px;
+    top: 75px;
     left: 55px;
   }
   
   .navbar-inverse .navbar-nav li a {
    border-radius: 4px 4px 0 0;
- }
+   padding-bottom: 6px;
+ 
+   padding-top:  10px;
+}
 }
 
 
@@ -114,3 +117,5 @@ li {list-style: none; }
   position: relative;
   top: 55px;
 }
+
+.navbar {min-height: 111px; }
