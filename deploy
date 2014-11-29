@@ -1,1 +1,0 @@
-rsync -av ./ r00ster@dream:custard.no --exclude=test --exclude=nbproject --delete --exclude=deploy
