@@ -4,7 +4,7 @@
         <hr />
         <div class="container">
           <img src="img/banner.png" class="img-responsive">
-          <p>&copy; CustardLabs AS 2014 - Registered organisation: 914 174 643 MVA</p>
+          <p>&copy; CustardLabs AS 2014-<?php echo date("Y"); ?> - Registered organisation: 914 174 643 MVA</p>
         </div>
       </div>
     </div> <!-- /container -->        
