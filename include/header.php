@@ -10,7 +10,7 @@
   <title>CustardLabs AS<?php echo $page ? " ~ " . $page : "" ?></title>
   <meta name="description" content="Oslo based IT company specialising in implementation and continuing support of web applications, in particular large membership administration platforms for organisations">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="keywords" content="PHP, Membership system, Membernet, Scoutnet, Min Speiding, Web development, utvikling, nettsider, medlemHTML, HTML5, CSS, JavaScript, medlemssystem, kontingent, medlemsystem,
+  <meta name="keywords" content="Custard, Labs, Custard Labs, PHP, Membership system, Membernet, Scoutnet, Min Speiding, Web development, utvikling, nettsider, medlemHTML, HTML5, CSS, JavaScript, medlemssystem, kontingent, medlemsystem,
                                  medlemsregister, medlemshåndtering, organisasjon, klubb, forbund, forening, krets, distrikt, register, club, society, sports, membership administration, CRM, consulting,
                                  support, norway, english, norwegian, norsk, svensk, nynorsk, lag, elephpant, angular, bootstrap, backbone">
   
