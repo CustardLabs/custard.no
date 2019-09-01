@@ -52,6 +52,7 @@
             <li <?php echo $page == "home" ? "class='active'" : ""; ?>><a href="/" >Home</a></li>
             <li <?php echo $page == "about" ? "class='active'" : ""; ?>><a href="about">About us</a></li>
             <li <?php echo $page == "projects" ? "class='active'" : ""; ?>><a href="projects">Projects</a></li>
+            <li <?php echo $page == "jobs" ? "class='active'" : ""; ?>><a href="jobs">Jobs</a></li>
           </ul>
         </div>
       </div>

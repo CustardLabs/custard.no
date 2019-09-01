@@ -23,6 +23,9 @@ switch ($page) {
   case "projects":
     $includePage = "projects";
     break;
+  case "jobs":
+    $includePage = "jobs";
+    break;
   default:
     die("404!");
     break;
