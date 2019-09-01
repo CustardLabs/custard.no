@@ -46,7 +46,10 @@
         Base salary will be based on experience and set at an industry-standard level - however as a small company with a stable customer base, the potential for
         a rewarding profit-share bonus model is extremely good. We also support open source contribution (where relevant, e.g. Symfony/PHP/etc.) and attendance
         at conferences around Europe. Working hours are extremely flexible, and a good pension scheme will be discussed & arranged.
-      </p>  
+      </p>
+      <p>
+        Contact <span id="email_link">russ{#}custard.no</span> with any enquiries.
+      </p>
     </div>
   </div>
   <div class="row">
