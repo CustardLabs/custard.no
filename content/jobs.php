@@ -3,7 +3,7 @@
   <div class="row">
     <div class="col-md-12">
       <h3>Web application developer - full time</h3>
-      <img src="img/PHP-logo.svg" class="inline_avatar_right"/>
+      <img src="img/PHP-logo.svg" class="inline_avatar_right" style="width:250px;""/>
       <p>
         We are looking for someone to help with the development of our core membership system. Candidates should be able to manage their own time
         and combine remote work with some office time at our Oslo location. Working language (documentation, tickets, project related discussions) is English, however
@@ -52,14 +52,14 @@
   <div class="row">
     <div class="col-md-12">
       <h3>UX design - part time</h3>
-      <img src="img/logo-html-css-javascript.png" class="inline_avatar_left" />
+      <img src="img/logo-html-css-javascript.png" class="inline_avatar_left" style="width:200px;"/>
       <p>
         If you are interested in contributing on an ad-hoc basis, please get in touch.
       </p>
     </div>
     <div class="col-md-12">
       <h3>Expert consultation - short-term/part-time</h3>
-      <img src="img/symfony_black_03.png" class="inline_avatar_left" />
+      <img src="img/symfony_black_03.png" class="inline_avatar_left" style="width:150px;" />
       <p>
         Particularly experienced in Symfony/Doctrine migrations? Get in touch!
       </p>
