@@ -16,8 +16,8 @@
       </p>
       <h4>Core skills/experience</h4>
       <ul>
-        <li>First generation Symfony & Doctrine - required for development & maintenance of existing system(s)</li>
-        <li>New generation Symfony & Doctrine - for moving forward with new development</li>
+        <li>Either: First generation Symfony & Doctrine - required for development & maintenance of existing system(s)</li>
+        <li>Or: New generation Symfony & Doctrine - for moving forward with new development (both is a huge plus, but not essential)</li>
         <li>PHP - Main working programming language</li>
         <li>Some design/UX (html/css/jQuery)</li>
         <li>Some database interaction (PostgreSQL)</li>
@@ -35,7 +35,7 @@
         membership system. Work is mostly carried out remotely, using tools such as Slack to communicate with other team members and customers.
         We also have an office location in Oslo for team meetups and closer contact with our customer(s). The company head office is based in Fredrikstad,
         so candidates from the Østfold area may be ideally suited as more frequent team meetings could occur there. We also travel to Stockholm around 3-4 times
-        per year to maintain good contact touch with our customers there.
+        per year to maintain good contact with our customers there.
       </p>
       <p>
         Going forward, we will be upgrading the membership system to make use of later versions of PHP and Symfony/Doctrine. This will also involve
