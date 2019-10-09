@@ -2,8 +2,9 @@
 
 include "../include/functions.php";
 
-$uri = $_SERVER["REQUEST_URI"];
-$parts = explode("/", $uri);
+$uri           = $_SERVER["REQUEST_URI"];
+$explodeParams = explode("?", $uri);
+$parts         = explode("/", $explodeParams[0]);
 
 if (isset($parts[1]) && $parts[1]) {
   $page = $parts[1];
