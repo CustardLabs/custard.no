@@ -26,7 +26,7 @@
         <div class="col-xs-12">
           <h2>Contact us</h2>
           <p>Enquiries via email to <span id="email_link">info{#}custard.no</span> are more than welcome. You can also get in touch via <a href="https://www.facebook.com/custardlabs">Facebook</a> or <a href="https://twitter.com/custardlabs">Twitter</a></p>
-          <p>For more information about the company, you can check out the <a href="http://www.proff.no/selskap/custardlabs-as/oslo/internettdesign-og-programmering/Z0IK5QQ2/">Proff business register</a> or <a href="http://www.gulesider.no/f/custardlabs-as:110906539">Yellow pages (Gulesider)</a></p>
+          <p>For more information about the company, you can check out the <a href="https://www.proff.no/selskap/custardlabs-as/fredrikstad/internettdesign-og-programmering/IF49XO30C2C/">Proff business register</a> or <a href="http://www.gulesider.no/f/custardlabs-as:110906539">Yellow pages (Gulesider)</a></p>
         </div>
       </div>
     </div>
