@@ -7,20 +7,25 @@
       <p>
         CustardLabs' core project, developing, supporting and maintaining the membership system used by large organisations 
         such as the <a href="http://www.scouterna.se/">Guides and Scouts of Sweden</a>, 
-        and the <a href="http://www.speiding.no">Norwegian Guide and Scout Association</a>
+        the <a href="http://www.speiding.no">Norwegian Guide and Scout Association</a>,
+        and <a href="http://www.nm.no/">Noregs Mållag</a>
       </p>
       <p>
         We have just launched a proof-of-concept project on Github for end users of the membership system to start making
         their own interfaces, for example - an alternative slimmed down "my page" for mobile devices using AngularJS.
       </p>
       <p>
-        More details about this exciting development, and all other information regarding this system will be revealed via a dedicated
-        website in November. In the meantime - if you are on the look out for a fully featured, configurable and extendable hosted 
-        membership/organisation administration system please get in touch: <span id="email_link">info{#}custard.no</span>.</p>
+        If you are on the look out for a fully featured, configurable and extendable hosted 
+        membership/organisation administration system please get in touch with us: <span id="email_link">info{#}custard.no</span> or alternatively
+        if you represent a membership organisation, perhaps get in touch with one of the above organisations, for a user-perspective of the offering.
       </p>
       <p>
+        There is no specific pricing model to display here, as the system is a collaboration project between its user-organisations. In summary, the system
+        is somewhat free to use, with the expectation that you are willing to contribute back to it, so all can benefit.
+      <p>
         The system is currently translated into English, Norwegian and Swedish and includes functionality for invoicing, activity management, reporting,
-        statistics, Awards and achievements (and CVs), Email distribution lists and management of organisational elements (e.g. groups, districts, regions).
+        statistics, Awards and achievements (and CVs), Email distribution lists, management of organisational elements (e.g. groups, districts, regions), NETS
+        integration (eFaktura and Avtalegiro), etc.
       </p>
     </div>
   </div>
