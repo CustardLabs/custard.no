@@ -3,7 +3,7 @@
     <div class="col-sm-7 col-md-8">
       <h2>About us</h2>
       
-      <p>The CustardLabs team has worked with web applications for over <?php echo date("y") - 1997; ?> years, with a heavy lean towards PHP, and more recently frontend frameworks and libraries.
+      <p>The CustardLabs team has worked with web applications for over <?php echo date("Y") - 1997; ?> years, with a heavy lean towards PHP, and more recently frontend frameworks and libraries.
       We have over <?php echo date("Y") - 2008; ?> years of experience developing membership systems as part of a larger organisation, but the applications and user base have matured to the
       extent that they deserve a dedicated approach.</p>
       <p>It was out of this desire to focus more on web applications for membership organisations that encouraged the launch of CustardLabs.</p>
@@ -48,6 +48,15 @@
          Customers, friends, and colleagues can take advantage of this extra "service" especially as Russ is currently building hours to become an instructor some time in the next few years.</p>
       <p>Russ enjoys making <span class="custard">custard</span>, combining with fruit or home baked cakes, although Bird's custard is a little harder to find nowadays, it still maintains
          a place in his heart, and the company name was a funky reflection of this (along with getting really tired of trying to find a unique-ish name to use!).</p>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-xs-12 small_images">
+      <h2>Developer - Edwin</h2>
+      <img src ="/img/edwin.jpg" class="inline_avatar_left"/>
+      <p>Joined CustardLabs early 2021, Edwin has been working with PHP applications since 2012 and has spend the last years focussing on creating maintainable applications from an existing legacy codebase.</p>
+      <p>Originating from the Netherlands, but with a lifelong dream of moving outside this little country, he moved in the same year as joining CustardLab AS, searching for mountains, forest and a lot of snow.</p>
+      <p>He has a bunch of hobbies that are hard to combine like painting miniatures and hiking or playing video games and skiing. Aside from those you are allowed to wake him for any of his favorite dishes, a beautiful hike, exciting new tech or gadgets. Take a pick! But as a matter of speech obviously, please don't wake him.</p>
     </div>
   </div>
 </div>
