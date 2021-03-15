@@ -3,7 +3,7 @@
     <div class="col-sm-7 col-md-8">
       <h2>About us</h2>
       
-      <p>The CustardLabs team has worked with web applications for over <?php echo date("y") - 1997; ?> years, with a heavy lean towards PHP, and more recently frontend frameworks and libraries.
+      <p>The CustardLabs team has worked with web applications for over <?php echo date("Y") - 1997; ?> years, with a heavy lean towards PHP, and more recently frontend frameworks and libraries.
       We have over <?php echo date("Y") - 2008; ?> years of experience developing membership systems as part of a larger organisation, but the applications and user base have matured to the
       extent that they deserve a dedicated approach.</p>
       <p>It was out of this desire to focus more on web applications for membership organisations that encouraged the launch of CustardLabs.</p>
