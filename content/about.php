@@ -50,13 +50,4 @@
          a place in his heart, and the company name was a funky reflection of this (along with getting really tired of trying to find a unique-ish name to use!).</p>
     </div>
   </div>
-  <div class="row">
-    <div class="col-xs-12 small_images">
-      <h2>Developer - Edwin</h2>
-      <img src ="/img/edwin.jpg" class="inline_avatar_left"/>
-      <p>Joined CustardLabs early 2021, Edwin has been working with PHP applications since 2012 and has spend the last years focussing on creating maintainable applications from an existing legacy codebase.</p>
-      <p>Originating from the Netherlands, but with a lifelong dream of moving outside this little country, he moved in the same year as joining CustardLab AS, searching for mountains, forest and a lot of snow.</p>
-      <p>He has a bunch of hobbies that are hard to combine like painting miniatures and hiking or playing video games and skiing. Aside from those you are allowed to wake him for any of his favorite dishes, a beautiful hike, exciting new tech or gadgets. Take a pick! But as a matter of speech obviously, please don't wake him.</p>
-    </div>
-  </div>
 </div>
