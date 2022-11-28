@@ -24,7 +24,7 @@ $( document ).ready(function() {
   
   if ($("#lifestream").length) {
     (function(){
-      var count = 0,
+      let count = 0,
       list = [
         {
           service: 'facebook_page',
@@ -34,16 +34,13 @@ $( document ).ready(function() {
           service: 'github',
           user: 'rooster'
         },
-        // Change the key when you're using it on your own website
-        // You can create one on https://code.google.com/apis/console
-        //{
-        //  service: 'googleplus',
-        //  user: '112594588017353316971',
-        // key: 'AIzaSyCB8pKtPwGWkOMfe49CopUM40F6seVv5AE'
-        //},
         {
           service: 'rss',
           user: 'http://eatmymonkeydust.com/category/PHP/feed/'
+        },
+        {
+          service: 'rss',
+          user: 'https://phpc.social/@russ.rss',
         },
         {
           service: 'twitter',

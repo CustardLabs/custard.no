@@ -36,7 +36,7 @@
     </div>
     <div class="col-md-4">
       <h2>Activity feed</h2>
-      <p>This section will show CustardLabs related activity from Github, Facebook and Twitter</p>
+      <p>This section will show CustardLabs related activity from GitHub, Facebook and Twitter</p>
       <div id="lifestream" data-limit="10">&nbsp;</div>
       <!--<p><a class="btn btn-default" href="/activity" role="button">More &raquo;</a></p>-->
     </div>
