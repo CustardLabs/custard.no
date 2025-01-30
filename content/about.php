@@ -42,10 +42,8 @@
       <img src="img/mbcs-logo-colour_300.jpg" class="inline_avatar_right" alt="BCS member" >
       <img src="img/zend-certified.jpg" class="inline_avatar_right" alt="Zend certified PHP5"/>
       <p>A keen rock climber and runner, you will find Russ frequenting the Norwegian forests and mountains, as well as travelling around to various races (e.g. Tallinn half-marathon,
-         Birmingham half marathon, etc.). Russ is proud to hold a few segment records on <a href="https://www.strava.com/athletes/5686802">Strava</a> and challenges you all to
+         Birmingham half-marathon, etc.). Russ is proud to hold a few segment records on <a href="https://www.strava.com/athletes/5686802">Strava</a> and challenges you all to
          have a crack at beating them!</p>
-      <p>As a private pilot's license holder, you may also find Russ by looking up over the Oslo Fjord, or popping to Sweden for Tika - but don't worry, his laptop is never far away!
-         Customers, friends, and colleagues can take advantage of this extra "service" especially as Russ is currently building hours to become an instructor some time in the next few years.</p>
       <p>
         Russ enjoys making <span class="custard">custard</span>, combining with fruit or home baked cakes, although Bird's custard is a little harder to find nowadays, it still maintains
         a place in his heart, and the company name was a funky reflection of this (along with getting tired of trying to find a unique-ish name to use!).

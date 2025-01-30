@@ -26,19 +26,13 @@
       <div class ="row">
         <div class="col-xs-12">
           <h2>Contact us</h2>
-          <p>Enquiries via email to <span id="email_link">info{#}custard.no</span> are more than welcome. You can also get in touch via <a href="https://www.facebook.com/custardlabs">Facebook</a> or <a href="https://twitter.com/custardlabs">Twitter</a></p>
+          <p>Enquiries via email to <span id="email_link">info{#}custard.no</span> are more than welcome. You can also get in touch via <a href="https://www.facebook.com/custardlabs">Facebook</a></p>
           <p>For more information about the company, you can check out the <a href="https://www.proff.no/selskap/custardlabs-as/fredrikstad/internettdesign-og-programmering/IF49XO30C2C/">Proff business register</a> 
              or <a href="http://www.gulesider.no/f/custardlabs-as:110906539">Yellow pages (Gulesider)</a></p>
           <p>Enquiries by telephone are discouraged unless your number is recognised by lookup services such as 180.no. Unlisted numbers, or those reported as sales/spam will be ignored, unless we are expecting a call.
              This is simply due to the high volume of unsolicited calls we receive, and the lack of any kind of secretarial service to receive and filter them.</p>
         </div>
       </div>
-    </div>
-    <div class="col-md-4">
-      <h2>Activity feed</h2>
-      <p>This section will show CustardLabs related activity from GitHub, Facebook and Twitter</p>
-      <div id="lifestream" data-limit="10">&nbsp;</div>
-      <!--<p><a class="btn btn-default" href="/activity" role="button">More &raquo;</a></p>-->
     </div>
   </div>
 </div>
